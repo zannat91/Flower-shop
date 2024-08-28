@@ -1,0 +1,106 @@
+.con1{
+  display: flex;
+  width: 600px;
+  background-color: aliceblue;
+  margin: 0 auto;
+  gap: 50px;
+  padding:80px;
+  margin-bottom: 20px;
+}
+.but1{
+  background-color: chocolate;
+  padding: 8px;
+  width: 100px;
+}
+.im1{
+  width: 250px;
+}
+.let{text-align: center;}
+
+
+.con2{
+  width: 650px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.o{
+ display: flex;
+ gap: 30px;
+}
+.o>div img{
+ width:200px;
+}
+
+.con3{
+  display: flex;
+  width: 600px;
+  margin: 0 auto;
+  background-color: honeydew;
+  text-align: center;
+  gap: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+ .con3> div img{
+  width:20px;
+}
+
+
+.con4{
+  display: flex;
+  margin: 0 auto;
+  background-color:gainsboro;
+  width: 600px;
+  padding:80px;
+  gap: 30px;
+  text-align:center;
+  margin-bottom: 20px;
+} 
+.but4{
+  padding:8px;
+  background-color:chocolate;
+  color:black;
+}
+
+.con5{
+  margin: 0 auto;
+  width: 600px;
+  background-color: white;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.con5>div img{
+  width: 130px;
+  gap:30px;
+}
+.con6{
+  background-image: url(image.png);
+  text-align: center;
+  margin: 0 auto;
+  width: 550px;
+  padding: 100px;
+  margin-bottom: 20px;
+}
+.for6{
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
+.but6{
+  padding: 8px;
+  background-color: firebrick;
+}
+.con7{
+  width: 550px;
+  padding: 100px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+.fl7{
+  color: lightpink;
+}
